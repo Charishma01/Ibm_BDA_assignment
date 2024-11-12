@@ -52,7 +52,7 @@ The dataset consists of customer order records with the following columns:
 
    **Query:** Load the dataset, sort by amount in descending order, and display the top 3 highest orders.
 
-   ![Example Image](soting.png)
+   ![Example Image](sorting.png)
 
   ### 6.Aggregating and Filtering Data (Total Purchases Above $500)
 
@@ -60,7 +60,7 @@ The dataset consists of customer order records with the following columns:
 
    **Query:** Group orders by customer_id, calculate the total purchase amount, and filter for customers who spent more than $500.
 
-    ![Example Image](Aggregation.png)
+    ![Example Image](Aggregation.png).
 
   
 
