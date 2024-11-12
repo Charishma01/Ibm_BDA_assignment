@@ -14,14 +14,6 @@ The dataset consists of customer order records with the following columns:
 | order_date  | chararray | Date the order was placed (YYYY-MM-DD)              |
 | amount      | float     | Order amount in dollars                             |
 
-### Sample Data
-
-| customer_id | name | age | location | order_id | order_date | amount |
-|---|---|---|---|---|---|---|
-| 101 | Alice | 25 | New York | 1001 | 2023-01-05 | 150.00 |
-| 102 | Bob | 30 | San Diego | 1002 | 2023-02-10 | 220.50 |
-| ... | ... | ... | ... | ... | ... | ... |
-
 ## Analysis Scenarios and Queries
 
 ### 1. Filtering Customers by Age
@@ -30,6 +22,13 @@ The dataset consists of customer order records with the following columns:
  **Query:** Load the dataset and filter out customers with age < 18.
  
  ![Example Image](filtering.png)
+
+ ### 2.Grouping by Customer and Calculating Total Sales
+   **Scenario:** Calculate the total order amount for each customer.
+
+   **Query:** Group the data by customer_id and calculate the total sales (sum of amount) for each customer.
+
+   ![Example Image](filtering.png)
  
  
    
