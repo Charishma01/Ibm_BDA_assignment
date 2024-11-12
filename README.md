@@ -26,8 +26,10 @@ The dataset consists of customer order records with the following columns:
 
 ### 1. Filtering Customers by Age
  **Scenario:** Analyze customers who are adults (age 18 and above).
+ 
  **Query:** Load the dataset and filter out customers with age < 18.
- ![Example Image](filtering.png)
+ 
+ filtering.png
  
  
    
