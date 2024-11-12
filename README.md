@@ -29,7 +29,7 @@ The dataset consists of customer order records with the following columns:
  
  **Query:** Load the dataset and filter out customers with age < 18.
  
- (filtering.png)
+ ![Example Image](filtering.png)
  
  
    
