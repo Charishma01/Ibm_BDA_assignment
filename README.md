@@ -60,7 +60,7 @@ The dataset consists of customer order records with the following columns:
 
    **Query:** Group orders by customer_id, calculate the total purchase amount, and filter for customers who spent more than $500.
 
-    ![Example Image](Aggregation.png).
+   ![Example Image](Aggregation.png)
 
   
 
